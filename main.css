@@ -1,0 +1,12 @@
+
+
+
+
+.container {
+    display : flex;
+    height : 1200vh;
+    flex-direction : column;
+    width : 50vw;
+    margin : 12rem;
+    
+}
